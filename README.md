@@ -82,7 +82,7 @@ Uses `dir()` function to:
 ## Project Structure
 
 ```text
-Multi Utility Toolkit/
+Modular & Packager/
 │
 ├── main.py
 │
