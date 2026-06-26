@@ -210,7 +210,7 @@ This ensures that the program executes only when run directly.
 
 ### Exit
 
-![Module](Exit.png)
+![Exit](Exit.png)
 
 ---
 
