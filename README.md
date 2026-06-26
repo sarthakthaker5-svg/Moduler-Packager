@@ -182,35 +182,35 @@ This ensures that the program executes only when run directly.
 
 ### Main Menu
 
-![Main Menu](MainMenu.png)
+![Main Menu](MainMenu.PNG)
 
 ### Date and Time Operations
 
-![Datetime](Date&Time.png)
+![Datetime](Date&Time.PNG)
 
 ### Mathematical Operations
 
-![Math](MathematicalOperations.png)
+![Math](MathematicalOperations.PNG)
 
 ### Random Data Generation
 
-![Random](RandomData.png)
+![Random](RandomData.PNG)
 
 ### UUID Generation
 
-![UUID](UUID.png)
+![UUID](UUID.PNG)
 
 ### File Operations
 
-![Files](FileOperations.png)
+![Files](FileOperations.PNG)
 
 ### Module Exploration
 
-![Module](Module.png)
+![Module](Module.PNG)
 
 ### Exit
 
-![Exit](Exit.png)
+![Exit](Exit.PNG)
 
 ---
 
