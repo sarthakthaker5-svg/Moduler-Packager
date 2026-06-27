@@ -218,7 +218,8 @@ This ensures that the program executes only when run directly.
 
 Watch the complete project demonstration here:
 
-[▶ Watch Demo Video]((https://drive.google.com/file/d/1MUh-CDQhI24uyFj4qlyWp4olD7sojedV/view))
+[▶ Watch Demo Video](https://drive.google.com/file/d/1MUh-CDQhI24uyFj4qlyWp4olD7sojedV/view)
+
 
 ---
 
